@@ -257,7 +257,8 @@ df['Courier Status'].value_counts()
 
 ## 8. Visualization
 - **PowerBI:** Utilize PowerBI for visualizing the data, creating dashboards that track key metrics like sales trends, order fulfillment rates, and geographical distributions.
-![Screenshot 2024-08-27 182410](https://github.com/user-attachments/assets/39791b00-43f5-4e10-9ff3-a0545f980733)
+![Screenshot 2024-08-28 225845](https://github.com/user-attachments/assets/7a0b2fb3-efc4-4a7b-ad06-6e43d1a991bb)
+
 
 ## Final Recommendations and Business Insights
 
